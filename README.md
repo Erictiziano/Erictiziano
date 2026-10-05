@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Eric Maldonado
 
-<!--
-**Erictiziano/Erictiziano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingenieria en sistemas
 
-Here are some ideas to get you started:
+## 🙋 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estoy aprendiendo HTML, CSS, PHP
+- 📍 Vivo en Rosario, Argentina
+
+## 🛠️ Tecnologías
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📫 Contacto
+
+<!-- - 💼 LinkedIn: [tu-usuario](https://linkedin.com/in/tu-usuario)--- -->
+- 📧 Email: erictiziano121@gmail.com
+
+## 📊 Estadísticas
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Erictiziano&show_icons=true&theme=default)
